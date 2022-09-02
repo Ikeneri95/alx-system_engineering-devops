@@ -1,2 +1,4 @@
 # alx-system_engineering-devops
-my_task
+#!/bin/bash 
+
+ls
