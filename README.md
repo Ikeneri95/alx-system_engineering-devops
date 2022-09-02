@@ -1,4 +1,1 @@
-# alx-system_engineering-devops
-#!/bin/bash 
-
-ls
+Shell basics task
