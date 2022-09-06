@@ -1,0 +1,1 @@
+create a script that creates an alias. Create a script that prints hello user, where user is the current Linux user. Add action to Path . /action should be the last directorythe shell looks intowhen looking for a program. Create a script that counts the number of directories in the Path. Create a script that lists all local variables and environment variables and functions.
